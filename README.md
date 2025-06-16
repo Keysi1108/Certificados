@@ -34,5 +34,6 @@ Bienvenido/a. Aquí podrás encontrar mis certificados obtenidos en cursos, tall
 (https://github.com/Keysi1108/Certificados/blob/main/Growth%20Hacking%20%C2%BFC%C3%B3mo%20hacer%20crecer%20tu%20negocio%20digital.pdf)
 
 🏅 [Inteligencia Emocional - Netzun] 
+(https://github.com/Keysi1108/Certificados/blob/main/Inteligencia%20Emocional.pdf)
 
 ✨ *Repositorio actualizado periódicamente con nuevos logros.*
