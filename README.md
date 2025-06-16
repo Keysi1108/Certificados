@@ -27,5 +27,7 @@ Bienvenido/a. Aquí podrás encontrar mis certificados obtenidos en cursos y pro
 🏅 [Tendencias y tecnologías disruptivas - Netzun]
 (https://github.com/Keysi1108/certificates/blob/main/Tendencias%20y%20tecnolog%C3%ADas%20disruptivas.pdf)
 
+🏅 [¿Cómo desarrollar una presentación efectiva? - Netzun]
+
 
 ✨ *Repositorio actualizado periódicamente con nuevos logros.*
