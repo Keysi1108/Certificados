@@ -28,6 +28,6 @@ Bienvenido/a. Aquí podrás encontrar mis certificados obtenidos en cursos y pro
 (https://github.com/Keysi1108/certificates/blob/main/Tendencias%20y%20tecnolog%C3%ADas%20disruptivas.pdf)
 
 🏅 [¿Cómo desarrollar una presentación efectiva? - Netzun]
-
+(https://github.com/Keysi1108/Certificados/blob/main/%C2%BFC%C3%B3mo%20desarrollar%20una%20presentaci%C3%B3n%20efectiva.pdf)
 
 ✨ *Repositorio actualizado periódicamente con nuevos logros.*
