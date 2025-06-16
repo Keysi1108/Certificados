@@ -7,6 +7,7 @@ Bienvenido/a. Aquí podrás encontrar mis certificados obtenidos en cursos, tall
 🏅 [Fundamentos de Business Intelligence - Netzun]
 (https://github.com/Keysi1108/certificates/blob/main/Cert.%20Fundamentos%20de%20Business%20Intelligence.pdf)
 
+
 ## 📄 Certificados Disponibles - Netzun 
 
 🏅 [Certificado Cómo ejecutar una Transformación Digital - Netzun] (https://github.com/Keysi1108/certificates/blob/main/Cert.%20C%C3%B3mo%20ejecutar%20una%20Transformaci%C3%B3n%20Digital.pdf)
